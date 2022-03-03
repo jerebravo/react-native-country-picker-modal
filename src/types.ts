@@ -6,7 +6,6 @@ export const CountryCodeList = [
   'AD',
   'AO',
   'AI',
-  'AQ',
   'AG',
   'AR',
   'AM',
@@ -272,7 +271,6 @@ export interface Country {
 export const RegionList = [
   'Africa',
   'Americas',
-  'Antarctic',
   'Asia',
   'Europe',
   'Oceania'
